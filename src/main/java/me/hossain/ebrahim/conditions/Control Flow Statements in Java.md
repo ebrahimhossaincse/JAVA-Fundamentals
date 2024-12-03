@@ -1,12 +1,4 @@
-# Control Flow Statements in Java
-
-Control flow statements determine the execution flow of a program based on conditions, loops, or branching logic. These statements allow a program to execute different parts of the code based on various factors.
-
----
-
-## Categories of Control Flow Statements
-
-### 1. **Decision-Making Statements**
+# Decision-Making Statements
 Used to execute a block of code conditionally.
 
 #### **1.1. if Statement**
