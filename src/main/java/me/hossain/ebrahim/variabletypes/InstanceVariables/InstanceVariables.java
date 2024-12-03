@@ -1,4 +1,4 @@
-package me.hossain.ebrahim.VariableTypes.InstanceVariables;
+package me.hossain.ebrahim.variabletypes.InstanceVariables;
 
 public class InstanceVariables {
 

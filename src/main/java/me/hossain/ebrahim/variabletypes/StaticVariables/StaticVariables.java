@@ -1,4 +1,4 @@
-package me.hossain.ebrahim.VariableTypes.StaticVariables;
+package me.hossain.ebrahim.variabletypes.StaticVariables;
 
 public class StaticVariables {
 

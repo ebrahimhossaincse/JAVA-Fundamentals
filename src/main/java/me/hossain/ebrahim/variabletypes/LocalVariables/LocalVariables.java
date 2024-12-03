@@ -1,4 +1,4 @@
-package me.hossain.ebrahim.VariableTypes.LocalVariables;
+package me.hossain.ebrahim.variabletypes.LocalVariables;
 
 public class LocalVariables {
     public static void main(String[] args) {
