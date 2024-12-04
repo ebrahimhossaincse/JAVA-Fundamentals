@@ -1,20 +1,18 @@
 package me.hossain.ebrahim.oop.Inheritance;
 
-abstract class Animal {
+class Animals {
     void eat() {
         System.out.println("This animal eats food.");
     }
-
-    abstract void makeSound();
 }
 
-class Dog extends Animal {
+class Dogs extends Animals {
     void bark() {
         System.out.println("The dog barks.");
     }
 }
 
-class Cat extends Animal {
+class Cats extends Animals {
     void meow() {
         System.out.println("The cat meows.");
     }
@@ -22,11 +20,11 @@ class Cat extends Animal {
 
 public class HierarchicalInheritance {
     public static void main(String[] args) {
-        Dog dog = new Dog();
+        Dogs dog = new Dogs();
         dog.eat();  // Output: This animal eats food.
         dog.bark(); // Output: The dog barks.
 
-        Cat cat = new Cat();
+        Cats cat = new Cats();
         cat.eat();  // Output: This animal eats food.
         cat.meow(); // Output: The cat meows.
     }
