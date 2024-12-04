@@ -1,4 +1,4 @@
-package me.hossain.ebrahim.oop;
+package me.hossain.ebrahim.oop.Inheritance;
 
 class Person {
     void introduce() {

@@ -1,9 +1,11 @@
-package me.hossain.ebrahim.oop;
+package me.hossain.ebrahim.oop.Inheritance;
 
-class Animal {
+abstract class Animal {
     void eat() {
         System.out.println("This animal eats food.");
     }
+
+    abstract void makeSound();
 }
 
 class Dog extends Animal {
